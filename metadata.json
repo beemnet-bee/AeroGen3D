@@ -1,0 +1,5 @@
+{
+  "name": "AeroGen AI: 3D Wind Turbine Simulator",
+  "description": "A high-fidelity 3D wind turbine simulation powered by Gemini 2.5 Flash. Experience real-time power generation physics, manipulate weather conditions manually or via AI scenarios, and visualize efficiency metrics on an interactive dashboard.",
+  "requestFramePermissions": []
+}
